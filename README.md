@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vamshi
 - 👀 I’m interested in Traveling ✈️🚊🏍️.
-- 🌱 I’m currently learning Nuxt js 
+- 🌱 I’m currently learning something new 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: ...
